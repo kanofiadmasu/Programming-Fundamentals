@@ -5,13 +5,13 @@
 
 ---
 
-<pre> ''' class bark():
+<pre> ```python class bark():
 
   def __init__(self, hello):
   self.hello = hello
 
   dog = bark('woof')
 
-  print(dog.bark)'''
+  print(dog.bark)```
 
 </pre>
