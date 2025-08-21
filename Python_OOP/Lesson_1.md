@@ -12,6 +12,6 @@
 
   dog = bark('woof')
 
-  print(dog.bark)
+  print(dog.bark) '''
 
 </pre>
