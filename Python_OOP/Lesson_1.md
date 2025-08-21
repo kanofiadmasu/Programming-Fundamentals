@@ -1,4 +1,17 @@
 # **Hello there How are you**
 
 
-[Github] (Github.com)
+[GitHub] (Github.com)
+
+---
+
+<pre> ''' class bark():
+
+  def __init__(self, hello):
+  self.hello = hello
+
+  dog = bark('woof')
+
+  print(dog.bark)
+
+</pre>
