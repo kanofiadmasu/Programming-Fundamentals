@@ -7,7 +7,7 @@
  What is OOP?
  
        Classes and objects
-       Types of ethods
+       Types of methods
        Types of varialbes 
        The four main charactherstics of OOP
        Special methods( Dundar methods) 
