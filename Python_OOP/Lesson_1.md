@@ -1,21 +1,23 @@
-# **Hello there How are you**
+ # Object Oriented Programming in python 
 
+ This is one of the most important concept in programming. 
+ 
+ To understnad OOP we need to divide it in to sub sections and build one upon another 
+ 
+ What is OOP?
+ 
+       Classes and objects
+       Types of methods
+       Types of Varialbes 
+       The four main charactherstics of OOP
+       Special methods( Dundar methods) 
 
-[GitHub] (Github.com)
+Why do we use OOP/ What is the use of OOP? 
 
----
+We will define each Part properly in way it is easy to understand. 
 
-<pre> ```python class bark():
+1. What are Classes and Objects? 
+       
 
-  def __init__(self, hello):
-  self.hello = hello
-
-  dog = bark('woof')
-
-  print(dog.bark)```
-f = open('./files/reading_file_example.txt')
-txt = f.read()
-print(type(txt))
-print(txt)
-f.close()
-</pre>
+    
+ 
