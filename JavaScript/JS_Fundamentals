@@ -20,7 +20,7 @@ This data type can be creted using either the object literal or new keyword.
 function greetUser(name) {
     return `Hello, ${name}!`;
 }
-
+```
 
 
       
