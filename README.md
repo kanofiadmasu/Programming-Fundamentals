@@ -15,7 +15,7 @@ This Repostiory is where I share the foundational programming concepts that I le
      This principle is also known as 80/20 rule, this is a foundational principle that enables you to get the grasp of any new concept in a short amount of time. This principle gives you the prerequisite ideas and concepts you need to go deep and understand a given concept fully. The main empahsis are the 20% input that will return 80% of the output, which is the most important feild.
    
 3. ***Asking the right Question***:  
-    This is the principle that I myself created, which is whenever we have a new thing to learn, by asking the right questions we will be able to grasp the main concept of the any topic. These fundamental questions are, What is this thing about, When do we use it, Why do I use this. These 3 questions will form the foundation for understanding or applying the pareto principle to any given topic.
+    This is the principle that I myself created, which is whenever we have a new thing to learn, by asking the right questions we will be able to grasp the main concept of any topic. These fundamental questions are, What is this thing about, When do I use it, Why do I use it. These 3 questions will form the foundation for understanding or applying the pareto principle to any given topic.
    
 5. ***Spaced Repetition***:  
    This is repeating the concepts you learned in a spaced manner to reinforce long term memory, retaintion, and understanding.
