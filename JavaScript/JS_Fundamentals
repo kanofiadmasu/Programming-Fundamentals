@@ -15,15 +15,11 @@ In Javscript there are some confusions regarding objects, because there is objec
 Object data types are data types that store data as a key-value pairs. Where keys are uniqe and made up of strings and symbols, values can be of any data type. 
 This data type can be creted using either the object literal or new keyword.  
 
-
-  ```javascript
-function greetUser(name) {
-    return `Hello, ${name}!`;
-}
+ ```python
+def hello_world():
+    print("Hello, GitHub!")
 ```
-`const variable = "hello world";`
 
-      
 
 
  
