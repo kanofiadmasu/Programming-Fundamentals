@@ -30,7 +30,7 @@ So, generally this object data type is data type that stores data in key-value p
 ```
 *Instance Objects*  
 
-This are the objects are a collection of properties and methods. Properties are the data the object has and methods are the behaviour of our objcet. 
+Objects are a collection of properties and methods. Properties are the data the object has and methods are the behaviour of our objcet. 
 We can access properties and objcets using the '.' notation or the '[ ]' notation. One thing to notice is In javascript everything is Object including the object data type 
 except non-primitive data types. 
 
