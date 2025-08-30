@@ -115,6 +115,47 @@ const person2 = new Person('y', 50);
    ```
 So these are the 3 ways in which we can create objects.  
 
+# 4 Pillars of OOP 
+
+1. ***Inheritance***
+   
+   Inheritance means as the term it inheriting properties and methods from other objects.
+   Inheritance in Javascript is different than other programming languages, in Javascript inhertance is not class based rather it is prototype based. So what is Prototypal inheritance.  
+   Before that What is prototype, and also we need to define '\__proto__\'.
+
+   *Prototype* is an object that is only available in constructors, from which objects made from that constructor inherits properties and methods. (it is kinda hard definition)  
+
+   *\__proto__\* is an object pointer that is available in every object in JS that points to the parent object from which that object will inherit. This *\__proto__\* = '[[Prototype]]'
+   which is a getter that made this --> '[[Prototype]]' private property accesible.
+
+      ```javascript
+   function Car(make, model){ 
+   this.make = make,
+   this.modle = model
+
+   };
+
+   car1 = new Car('Porsche', 2025);
+   car2 = new Car('Mercedes', 2025);                   
+   ```
+    for example here the 'Car' constructor has a '*Prototype*' which is propertey from which the objects made from this constructor will inherit form. And it also has '\__proto__\' which points to the object that other objects made from the construct will inherit from. Therefore, this means:  
+   ```javascrpt
+   Car.prototype === Car.__proto__ 
+   ```
+   Car.prototype is the object that the instances of that constructor will inherit from and Car.\__proto__ points towards the object from which instances of that constructor will inherit form.
+   
+2. ***Polymorphism***
+
+   Polymorphism means mean forms, in this context having the same method that does different tasks. Polymorphism is a property that enables us to use the same method for different output.
+
+3. ***Abstraction***
+
+   This property is involved in hiding the complextiy of the internal working of things and only focuses on the important and neccesay aspect or things we only care about.
+
+4. ***Encapsulation***
+
+   This as the name suggests it is encapsulating properties and methods in a bundle(class, constuctor) protect from direct access and use. This is useful for data privacy. 
+   
 
  
  
