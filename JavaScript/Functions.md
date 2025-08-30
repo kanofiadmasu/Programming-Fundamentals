@@ -88,7 +88,7 @@ In JS there are multiple types of functions these are,
   4.2.3. Reducue: this also as the name suggests it will reduce the reduces the elements by combining them into one element.
 
 
-Constructors and Factory fucntions are Explaine in the OOP section. 
+Constructors and Factory fucntions are Explained in the OOP section. 
 
 
 
@@ -115,3 +115,4 @@ Constructors and Factory fucntions are Explaine in the OOP section.
 
 
    
+
