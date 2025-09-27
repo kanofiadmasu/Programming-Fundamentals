@@ -21,5 +21,10 @@ This Repostiory is where I share the foundational programming concepts that I le
    This is repeating the concepts you learned in a spaced manner to reinforce long term memory, retaintion, and understanding.
     
 7. ***Active Recall***:  
- This principle states that instead of passively revising any topic, if we challenged ourself by questioning or by doing(if it is programming or math) some questions, we can remeber more about the topic. 
+ This principle states that instead of passively revising any topic, if we challenged ourself by questioning or by doing(if it is programming or math) some questions, we can remeber more about the topic.
+
+
+
+This is from my own personal experience and observations. If there is anyting to improve, change or add give me a comment on X @kanofiadmasu. 
+
 
