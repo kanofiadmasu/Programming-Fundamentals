@@ -24,5 +24,5 @@ A DBMS is the actual software system that implements the above data models and a
 There are different types DBMS, for example, MySQL, PostgresQL, MongoDB, etc... 
 
 
+ 
 
-Begin studying September 23/2025
