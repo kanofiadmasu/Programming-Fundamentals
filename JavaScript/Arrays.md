@@ -1,6 +1,6 @@
 # Arrays 
 
-Here I am only going to talk about the 3 most important array methods which are *filter*, *map*, and *reduce*. 
+Here I am only going to talk about the 3 most important array methods which are *filter*, *map*, *reduce*, and *forEach* . 
 
 1. *Filter*: Filter is an array method that filters an array based on a given condtion and returns a new array that pass the condtion. The filter method doesn't chage the older array. 
 
@@ -36,3 +36,15 @@ num =+ num
 console.log(arr);
 // arr = 10;
 ```
+4. *forEach*: this array method does the same thing with the *map* method, however it doesn't return a new array, it only applies the call back function to existing element without creating a new array.
+
+```javascript
+arr = [1, 2, 3, 4];
+arr.forEach(num => {
+num = num + 3
+});
+
+console.log(arr);
+// arr = [1, 2, 3, 4]
+// It doesn't return a new array, nonetheless it has applied the function to each element of the array.
+
