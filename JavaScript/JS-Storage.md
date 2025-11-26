@@ -15,9 +15,11 @@ There are 4 main different types where we can interact wih storage in javascript
 
    There are 3 ways where we can interact with the localStorage in JS  
 
-  *1. Setting an Item:* We use the localStorage.setItem('key', 'value') method to store the data, this will take 2 arguments that are going to be saved as key-value pairs.
-  *2. Getting an Item:* We use the localStorage.getItem('key') method to get an item from the storage. 
-  *3. Remove an Item:*  We use the localStorage.removeItem('key') method to remove an item from the storage.
+  *1. Setting an Item:* We use the localStorage.setItem('key', 'value') method to store the data, this will take 2 arguments that are going to be saved as key-value pairs.  
+  
+  *2. Getting an Item:* We use the localStorage.getItem('key') method to get an item from the storage.  
+  
+  *3. Remove an Item:*  We use the localStorage.removeItem('key') method to remove an item from the storage.  
   
    ```javascript
 
@@ -78,6 +80,7 @@ This is a Database in the browser we use this type of storage mainly to store la
 1. youtube --- Kyle Web Dev Simplified
 2. gpt --- learn/study mode
    
+
 
 
 
