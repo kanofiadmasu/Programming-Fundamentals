@@ -19,17 +19,17 @@ But here we will focus on the most important ones.
 Here before we manipulate any thing first we have to access it, this is also related to DOM-traversal, which means going through or traversing through the DOM.
 We select any element by going through the document structure. So there are multiple ways in whcih we can access elements.
 
-  *1.1. document.getElementById('Id)*: this is selecting an element by Id.
+  *1.1. document.getElementById("Id")*: this is selecting an element by Id.
   
-  *1.2. documet.getElementsByClassName('class-name')*: this returns all elements that has given class.  
+  *1.2. documet.getElementsByClassName("class-name")*: this returns all elements that has given class.  
   
-  *1.3. document.getElementsByTag('Tag')*: retruns elements with the give tag  
+  *1.3. document.getElementsByTag("Tag")*: retruns elements with the give tag  
   
-  *1.4. document.querySelector('CSS-selector')*: this method of selecting can select any element that matches the first element of the given css-rule or selector,
+  *1.4. document.querySelector("CSS-selector")*: this method of selecting can select any element that matches the first element of the given css-rule or selector,
                                                  which means it is not confined to one css-rule or selector, we can select any element based on the given css rule.
                                                  this only returns the first element that matches this one.  
   
-  *1.5. document.querySelectorAll('CSS-selector):* This selector returns all elements that matches the css rule that you input.   
+  *1.5. document.querySelectorAll("CSS-selector"):* This selector returns all elements that matches the css rule that you input.   
   
 ***2.Chnaging contents and attributes*** 
 
@@ -150,5 +150,6 @@ So the above DOM Methods are the core DOM manipulation methods we will use, the 
 2. GPT: study/learn mode
   
                                         
+
 
 
